@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<!--
-**gdefe/gdefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pyc-team&repo=pytorch_concepts&theme=calm)](https://github.com/pyc-team/pytorch_concepts)
+
