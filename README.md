@@ -1,24 +1,5 @@
 ## Hi there 👋
 
-<!---
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!---
-## 📚 Libraries
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pyc-team&repo=pytorch_concepts&theme=github_dark_dimmed)](https://github.com/pyc-team/pytorch_concepts)
-
-
-## 💻 Papers' code
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gdefe&repo=nvark-kernel&theme=github_dark_dimmed)](https://github.com/gdefe/nvark-kernel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gdefe&repo=ggnet-virtual-sensing&theme=github_dark_dimmed)](https://github.com/gdefe/ggnet-virtual-sensing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gdefe&repo=causally-reliable-cbm&theme=github_dark_dimmed)](https://github.com/gdefe/causally-reliable-cbm)
--->
-
+- 🙋‍♂️ I'm Giovanni De Felice
+- 🔬 I’m a postdoctoral researcher at USI Università della Svizzera Italiana 🇨🇭
+- 📈🚦 My research focuses on time series and concept-based interpretability
